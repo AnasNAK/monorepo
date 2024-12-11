@@ -6,12 +6,6 @@ This repository contains a To-Do List application built with React and Vite for 
 
 - [Overview](#overview)
 - [Technologies Used](#technologies-used)
-- [Frontend Setup](#frontend-setup)
-- [Backend Setup](#backend-setup)
-- [Running the Application](#running-the-application)
-- [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -31,21 +25,3 @@ The To-Do List application consists of two main parts:
   - Node.js
   - Express.js
   - CORS (for handling cross-origin requests)
-
-## Frontend Setup
-
-The frontend is built using Vite, which provides a fast development environment for React applications.
-
-### Prerequisites
-
-Make sure you have the following installed:
-
-- Node.js (v18 or above)
-- npm (Node Package Manager)
-
-### Installation
-
-1. **Clone the repository**:
-   ```bash
-    git clone https://github.com/AnasNak/monorepo.git
-    cd monorepo/frontend/todo-list-app
