@@ -12,7 +12,7 @@ This repository contains a To-Do List application built with React and Vite for 
 The To-Do List application consists of two main parts:
 
 1. **Frontend**: A React application built with Vite that allows users to view, add, mark as complete, and delete to-do items.
-2. **Backend**: An Express.js server that serves as an API for managing to-do items with mongoDb.
+2. **Backend**: An Express.js server that serves as an API for managing books with mongoDb.
 
 ## Technologies Used
 
