@@ -19,7 +19,7 @@ The To-Do List application consists of two main parts:
 - **Frontend**:
   - React
   - Vite
-  - CSS (or any CSS framework of your choice)
+  - CSS
 
 - **Backend**:
   - Node.js
